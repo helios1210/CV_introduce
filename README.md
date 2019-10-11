@@ -13,12 +13,11 @@
 展示视频：
 
 <iframe src="//player.bilibili.com/player.html?aid=33811954&cid=59172114&page=1" scrolling="no" border="0" frameborder="no" framespacing="1" allowfullscreen="true"> </iframe>
-
 这是一个简单的制作，主要是了解一下PID控制还有传感器滤波的算法。
 
 > ##### 1.1 项目架构
 >
-> <img src="\blanceCar.jpg" style="zoom:60%;" />
+> <img src="blanceCar.jpg" style="zoom:60%;" />
 >
 > ##### 1.2 软件算法
 >
@@ -50,7 +49,7 @@
 
 四旋翼相当于**平衡车plus**,多了一个要控制的轴，我对飞行控制比较感兴趣于是尝试写飞控。当然像动力学建模，能源与动力系统，定位导航通信等方向都很重要，本项目没有涉及。
 
-<img src="\四旋翼.jpg" style="zoom:40%;" />
+<img src="四旋翼.jpg" style="zoom:40%;" />
 
 其中一个试验飞机:small_red_triangle:
 
@@ -66,13 +65,13 @@
 
 这是今年暑假参加2019全国大学生电子设计竞赛的作品，也是大学时代最后的一次比赛。
 
-<img src="\电磁炮2.jpg" style="zoom:30%;"/>
+<img src="电磁炮2.jpg" style="zoom:30%;"/>
 
 题目要求做一个由电容供能的电磁炮，可以发射弹丸。炮管架在两轴的云台上可以调节俯仰角可方位角。然后测试打靶精度。
 
 **具体题目：**
 
-<img src="\Egun01.jpg" style="zoom:80%;" />
+<img src="Egun01.jpg" style="zoom:80%;" />
 
 1.基本要求
 （1） 电磁炮能够将弹丸射出炮口。
